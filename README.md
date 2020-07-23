@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
 
 🔭 I’m currently working on [ GarageFlow™ ](https://garageflow.co.uk)
 
