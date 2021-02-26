@@ -1,11 +1,20 @@
-### Hi there 👋
+## 👋 Hi! My name is [Marian](https://twitter.com/mvpopuk)
 
-![](https://komarev.com/ghpvc/?username=mvpopuk&color=brightgreen&style=flat-square)
+<p>
+  <a href="https://twitter.com/mvpopuk">
+    <img alt="Twitter Followers" src="https://img.shields.io/twitter/follow/mvpopuk?style=for-the-badge&logo=twitter&color=00ACEE">
+  </a>
+</p>
 
-🔭 I’m currently working on [ GarageFlow™ ](https://garageflow.co.uk)
+<a href="https://github.com/danharrin"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=mvpopuk&show_icons=true" align="right" height="150" /></a>
 
-📫 How to reach me: me [@] mvpop.co.uk
+I am a PHP & Laravel developer, currently working on [ GarageFlow™ ](https://garageflow.co.uk)
 
+### 📦 I'm currently working on...
+- [ GarageFlow™ ](https://garageflow.co.uk) - Garage Management System and Business Growth Platform
+- **Mobix™** - ERP software for the furniture manufacturing industry
+
+### 📫 How to reach me: me [@] mvpop.co.uk
 
 <!--
 **mvpopuk/mvpopuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
