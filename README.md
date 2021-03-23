@@ -8,7 +8,7 @@
 
 <a href="https://github.com/danharrin"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=mvpopuk&show_icons=true" align="right" height="150" /></a>
 
-I am a PHP & Laravel developer based in Northampton, England. [ mvpop.co.uk ](https://mvpop.co.uk)
+I am a TALL Stack Developer based in Northampton, England. [ mvpop.co.uk ](https://mvpop.co.uk)
 
 ### 📦 I'm currently working on...
 - [ GarageFlow™ ](https://garageflow.co.uk) - Garage Management System and Business Growth Platform
