@@ -8,7 +8,7 @@
 
 <a href="https://github.com/danharrin"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=mvpopuk&show_icons=true" align="right" height="150" /></a>
 
-Jack of all trades, master of some: 💛 Javascript { React, Vue } \\ 🐘 PHP { Laravel } \\ Writing and maintaining 
+Full-Stack Developer (@laravelphp & @vuejs) \\ @reactjs fanboi \\ Writing and maintaining 
 <a href="https://twitter.com/laravelmagazine">@LaravelMagazine</a>
 
  [ mvpop.co.uk ](https://mvpop.co.uk)
