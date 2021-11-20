@@ -10,7 +10,7 @@
 
 Back-end Developer (@php & @laravel). Writing and maintaining 
 <a href="https://twitter.com/laravelmagazine">@LaravelMagazine</a>. 
-Christian - Matthew 6:33
+Host of <a href="https://laravelmagazine.com/podcast">The Laravel Magazine Podcast</a>. Matthew 6:33
 
  [ mvpop.co.uk ](https://mvpop.co.uk)
 
