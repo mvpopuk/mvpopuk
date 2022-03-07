@@ -8,7 +8,7 @@
 
 <a href="https://github.com/danharrin"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=mvpopuk&show_icons=true" align="right" height="150" /></a>
 
-🧙‍♂️ Indie maker (laravel, livewire, vue)
+🧙‍♂️ Back-end Developer (php & laravel)
 
 ✍🏻 Writing and maintaining <a href="https://twitter.com/laravelmagazine">@LaravelMagazine</a>
 
