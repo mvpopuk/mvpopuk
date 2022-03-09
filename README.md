@@ -1,12 +1,14 @@
+<a href="http://www.github.com/mvpopuk"><img src="https://activity-graph.herokuapp.com/graph?username=mvpopuk&bg_color=ffffff&color=1c1917&line=3382ed&point=3382ed&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 ## 👋 Hi! My name is [Marian](https://twitter.com/mvpopuk)
+
+<a href="https://github.com/danharrin"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=mvpopuk&show_icons=true" align="right" height="150" /></a>
 
 <p>
   <a href="https://twitter.com/mvpopuk">
     <img alt="Twitter Followers" src="https://img.shields.io/twitter/follow/mvpopuk?style=for-the-badge&logo=twitter&color=00ACEE">
   </a>
 </p>
-
-<a href="https://github.com/danharrin"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=mvpopuk&show_icons=true" align="right" height="150" /></a>
 
 🧙‍♂️ Back-end Developer (php & laravel)
 
@@ -15,9 +17,9 @@
 🎙 Host of <a href="https://laravelmagazine.com/podcast">The Laravel Magazine Podcast</a>
 
 🕊 Christian - Matthew 6:33
-
- [ mvpop.co.uk ](https://mvpop.co.uk)
 <a href="http://www.github.com/mvpopuk"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mvpopuk" align="right" height="150" /></a>
+[ mvpop.co.uk ](https://mvpop.co.uk)
+
 ### 📦 I'm currently working on...
 - [ GarageFlow™ ](https://garageflow.co.uk) - Garage Management System and Business Growth Platform
 - **Mobix™** - ERP software for the furniture manufacturing industry
