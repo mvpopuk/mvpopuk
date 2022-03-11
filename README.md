@@ -4,12 +4,6 @@
 
 <a href="https://github.com/danharrin"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=mvpopuk&show_icons=true" align="right" height="150" /></a>
 
-<p>
-  <a href="https://twitter.com/mvpopuk">
-    <img alt="Twitter Followers" src="https://img.shields.io/twitter/follow/mvpopuk?style=for-the-badge&logo=twitter&color=00ACEE">
-  </a>
-</p>
-
 🧙‍♂️ Back-end Developer (php & laravel)
 
 ✍🏻 Writing and maintaining <a href="https://twitter.com/laravelmagazine">@LaravelMagazine</a>
