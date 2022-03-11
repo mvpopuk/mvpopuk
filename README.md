@@ -11,10 +11,10 @@
 🎙 Host of <a href="https://laravelmagazine.com/podcast">The Laravel Magazine Podcast</a>
 
 🕊 Christian - Matthew 6:33
-<a href="http://www.github.com/mvpopuk"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mvpopuk" align="right" height="150" /></a>
-[ mvpop.co.uk ](https://mvpop.co.uk)
 
 ### 📦 I'm currently working on...
+<a href="http://www.github.com/mvpopuk"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mvpopuk" align="right" height="150" /></a>
+[ mvpop.co.uk ](https://mvpop.co.uk)
 - [ GarageFlow™ ](https://garageflow.co.uk) - Garage Management System and Business Growth Platform
 - **Mobix™** - ERP software for the furniture manufacturing industry
 - **motring™** - MOT reminders app
