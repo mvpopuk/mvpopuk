@@ -1,5 +1,3 @@
-<a href="http://www.github.com/mvpopuk"><img src="https://activity-graph.herokuapp.com/graph?username=mvpopuk&bg_color=ffffff&color=1c1917&line=3382ed&point=3382ed&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 ## 👋 Hi! My name is [Marian](https://twitter.com/mvpopuk)
 
 <a href="https://github.com/danharrin"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=mvpopuk&show_icons=true" align="right" height="150" /></a>
