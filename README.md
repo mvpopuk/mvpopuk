@@ -2,13 +2,12 @@
 
 <a href="https://github.com/danharrin"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=mvpopuk&show_icons=true" align="right" height="150" /></a>
 
-🧙‍♂️  PHP / Laravel Developer
+🧙🏻‍♂️ Full-stack (Laravel / Vue / React)
 
-✍🏻 Writing and maintaining <a href="https://twitter.com/laravelmagazine">@LaravelMagazine</a>
+🥷🏻 Creator of http://statamic.ninja
 
-🎙 Host of <a href="https://laravelmagazine.com/podcast">The Laravel Magazine Podcast</a>
-
-👤 Pronouns: vi/vim
+🛰️ Sharing Laravel insights & 🎙️ Podcast at 
+<a href="https://laravelmagazine.com/podcast">@LaravelMagazine</a>
 
 ### 📦 I'm currently working on...
 <a href="http://www.github.com/mvpopuk"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mvpopuk" align="right" height="150" /></a>
