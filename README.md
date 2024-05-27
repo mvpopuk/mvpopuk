@@ -9,6 +9,8 @@
 🛰️ Sharing Laravel insights & 🎙️ Podcast at 
 <a href="https://laravelmagazine.com/podcast">@LaravelMagazine</a>
 
+👤 Pronouns: vi/vim
+
 ### 📦 I'm currently working on...
 <a href="http://www.github.com/mvpopuk"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mvpopuk" align="right" height="150" /></a>
 - **GarageFlow™** - Garage Management System and Business Growth Platform
