@@ -8,8 +8,7 @@
 👤 Pronouns: vi/vim
 
 ### 📦 I'm currently working on...
-<a href="http://www.github.com/mvpopuk"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mvpopuk" align="right" height="150" /></a>
-- <a href="https://getleadsprout.io">**Leadsprout**</a> - Leadsprout - AI powered B2B lead gen
+- <a href="https://getleadsprout.io">**Leadsprout**</a> - AI powered B2B lead gen
 
 ### 📫 How to reach me: marian [@] laravelmagazine.com
 
