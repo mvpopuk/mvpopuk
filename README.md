@@ -1,4 +1,4 @@
-## 👋 Hi! My name is [Marian](https://twitter.com/mvpopuk)
+## 👋 Hi! My name is [Marian](https://x.com/mvpopuk)
 
 <a href="https://github.com/danharrin"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=mvpopuk&show_icons=true" align="right" height="150" /></a>
 
@@ -11,7 +11,7 @@
 
 ### 📦 I'm currently working on...
 <a href="http://www.github.com/mvpopuk"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mvpopuk" align="right" height="150" /></a>
-- <a href="https://getleadsprout.io">**Leadsprout™**</a> - Leadsprout - AI powered B2B lead gen
+- <a href="https://getleadsprout.io">**Leadsprout**</a> - Leadsprout - AI powered B2B lead gen
 
 ### 📫 How to reach me: marian [@] laravelmagazine.com
 
