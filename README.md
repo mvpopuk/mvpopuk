@@ -2,9 +2,7 @@
 
 <a href="https://github.com/danharrin"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=mvpopuk&show_icons=true" align="right" height="150" /></a>
 
-🧙🏻‍♂️ Full-stack (Laravel / Vue / React)
-
-🥷🏻 Creator of http://statamic.ninja
+🧙🏻‍♂️ Laravel → Inertia.js → React
 
 🛰️ Sharing Laravel insights & 🎙️ Podcast at 
 <a href="https://laravelmagazine.com/podcast">@LaravelMagazine</a>
@@ -13,9 +11,7 @@
 
 ### 📦 I'm currently working on...
 <a href="http://www.github.com/mvpopuk"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mvpopuk" align="right" height="150" /></a>
-- **GarageFlow™** - Garage Management System and Business Growth Platform
-- **Mobix™** - ERP software for the furniture manufacturing industry
-- **motring™** - MOT reminders app
+- <a href="https://getleadsprout.io">**Leadsprout™**</a> - Leadsprout - AI powered B2B lead gen
 
 ### 📫 How to reach me: marian [@] laravelmagazine.com
 
