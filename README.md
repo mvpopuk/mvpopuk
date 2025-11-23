@@ -1,7 +1,5 @@
 ## 👋 Hi! My name is [Marian](https://x.com/mvpopuk)
 
-<a href="https://github.com/danharrin"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=mvpopuk&show_icons=true" align="right" height="150" /></a>
-
 🧙🏻‍♂️ Laravel → Inertia.js → React
 
 🛰️ Sharing Laravel insights & 🎙️ Podcast at 
