@@ -2,12 +2,13 @@
 
 🧙🏻‍♂️ Laravel → Inertia.js → React
 
-🛰️ Sharing Laravel insights & 🎙️ Podcast at 
+🎙️ Podcast at 
 <a href="https://laravelmagazine.com/podcast">@LaravelMagazine</a>
 
 👤 Pronouns: vi/vim
 
 ### 📦 I'm currently working on...
+- Queuewatch - Real-time Queue Monitoring for Laravel
 - <a href="https://getleadsprout.io">**Leadsprout**</a> - AI powered B2B lead gen
 
 ### 📫 How to reach me: marian [@] laravelmagazine.com
