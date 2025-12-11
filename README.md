@@ -8,7 +8,7 @@
 👤 Pronouns: vi/vim
 
 ### 📦 I'm currently working on...
-- Queuewatch - Real-time Queue Monitoring for Laravel
+- <a href="https://queuewatch.io">**Queuewatch**</a> - Real-time Queue Monitoring for Laravel
 - <a href="https://getleadsprout.io">**Leadsprout**</a> - AI powered B2B lead gen
 
 ### 📫 How to reach me: marian [@] laravelmagazine.com
