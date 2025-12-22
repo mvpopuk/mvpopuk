@@ -1,4 +1,4 @@
-## 👋 Hi! My name is [Marian](https://x.com/mvpopuk)
+## 👋 Hi! I'm [Marian](https://x.com/mvpopuk)
 
 🧙🏻‍♂️ Laravel → Inertia.js → React
 
