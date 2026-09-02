@@ -1,17 +1,16 @@
-## 👋 Hi! I'm [Marian](https://x.com/marianpop)
+## 👋 Hi! I'm [Marian](https://x.com/marianvpop)
 
 🧙🏻‍♂️ Laravel → Inertia.js → React
 
 🎙️ Podcast at 
-<a href="https://laravelmagazine.com/podcast">@LaravelMagazine</a>
+<a href="https://indiemakerdiaries">Indie Maker Diaries</a>
 
 👤 Pronouns: vi/vim
 
 ### 📦 I'm currently working on...
 - <a href="https://queuewatch.io">**Queuewatch**</a> - Real-time Queue Monitoring for Laravel
-- <a href="https://getleadsprout.io">**Leadsprout**</a> - AI powered B2B lead gen
 
-### 📫 How to reach me: marian [@] laravelmagazine.com
+### 📫 How to reach me: mvpopuk [@] gmail.com
 
 <!--
 **mvpopuk/mvpopuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
