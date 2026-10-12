@@ -10,7 +10,6 @@
 ### 📦 I'm currently working on...
 - <a href="https://garageflow.co.uk">**Garageflow**</a> - Garage Management & Business Growth Platform
 - <a href="https://timeasy.io">**Timeasy**</a> - Simple time-off management for small teams
-- <a href="https://queuewatch.io">**Queuewatch**</a> - Real-time Queue Monitoring for Laravel
 
 ### 📫 How to reach me: mvpopuk [@] gmail.com
 
